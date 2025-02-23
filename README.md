@@ -28,7 +28,7 @@ CorroScope is a corrosion assessment tool that combines computer vision and larg
     ```
 
 4. **Download the model weights**:
-    Place the model weights file (`statdict.pth`) in the `models` directory.
+    Download the model [weights file](https://drive.google.com/file/d/17lybeUGUZxT3GTatmU-C5vMsUEnYDxs6/view?usp=sharing) and put it (`statdict.pth`) in the `models` directory.
 
 ## Usage
 
