@@ -62,7 +62,7 @@ The decision to not use CNN models (versions of HRNet) was primarily due to thei
 
 Here is an example of how the interface looks:
 
-![Example Interface](./assets/interface_example.png)
+![Example Interface](./images/Untitled.png)
 
 ## Contributing
 
