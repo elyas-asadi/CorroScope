@@ -56,6 +56,8 @@ The Vision Transformer model was trained using a two-step approach:
 1. **Pre-training**: The model was pre-trained on a comprehensive segmentation dataset collected from the available datasets online. This helped the model to learn general features.
 2. **Fine-tuning**: Samples of complicated cases were annotated using weakly semi-supervised learning, and the model was fine-tuned on these samples to improve its performance on challenging scenarios.
 
+![Training procedure](./images/Presentation1.png)
+
 The decision to not use CNN models (versions of HRNet) was primarily due to their bias towards texture, which might lead to poor generalization on out-of-distribution images.
 
 ## Example
